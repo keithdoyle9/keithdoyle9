@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning how to design prompts using Azure OpenAI
 - I’m looking to collaborate on a project that brings together technology and the natural world. Preferably something involved in conservation or preservation of natural lands.
 - 📫 How to reach me 
-  - 🐦 https://twitter.com/MisterPenumbra
+  - 🐦 https://twitter.com/thekeithdoyle
+  - 🖇️ https://www.linkedin.com/in/keith-doyle/
