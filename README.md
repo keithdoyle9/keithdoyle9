@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @keithdoyle9
 - 👀 I’m interested in all things digital, and coffee. Definitely ☕
-- I’m looking to collaborate on a project that brings together technology and the natural world. Preferably something involved in conservation or preservation of natural lands.
+- I am an Engineering Leader.
+- I love building awesome teams and solving problems using technology.
 - 📫 How to reach me 
   - 🐦 https://twitter.com/thekeithdoyle
   - 🖇️ https://www.linkedin.com/in/keith-doyle/
