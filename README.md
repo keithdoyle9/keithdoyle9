@@ -2,6 +2,7 @@
 - 👀 I’m interested in all things digital, and coffee. Definitely ☕
 - I am an Engineering Leader.
 - I love building awesome teams and solving problems using technology.
-- 📫 How to reach me 
-  - 🐦 https://twitter.com/thekeithdoyle
+- 📫 How to reach me
+  - 🖥️ https://keithdoyle.me
+  - 🐦 https://x.com/thekeithdoyle
   - 🖇️ https://www.linkedin.com/in/keith-doyle/
