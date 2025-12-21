@@ -8,7 +8,7 @@ Currently, I'm pivoting deep into **AI Agents & Automation**, using modern low-c
 
 ### 🚀 What I'm Working On
 * **AI & Automation:** Building autonomous agents using **Python**, **n8n**, and **Make** to automate complex workflows.
-* **Mobile Development:** Creator of **Cage Keeper** (iOS), an app for youth lacrosse goalie tracking.
+* **Mobile Development:** Creator of **[Cage Keeper](https://cagekeeper.com)** (iOS), an app for youth lacrosse goalie tracking.
 * **Leadership:** Mentoring engineering managers and streamlining PMO operations.
 
 ### 🛠️ Tech Stack & Tools
