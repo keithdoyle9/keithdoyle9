@@ -1,36 +1,22 @@
-# 👋 Hi, I'm Keith Doyle (@keithdoyle9)
+# Hi, I'm Keith Doyle 👋
 
-**Engineering Leader | AI Enthusiast | Problem Solver**
+**Engineering Director | Marine Corps Veteran | Builder**
 
-I'm passionate about building awesome teams and leveraging cutting-edge technology to solve complex problems. When I'm not architecting solutions or mentoring developers, you'll find me exploring the latest in AI and automation—preferably with a great cup of coffee in hand ☕
+I bridge the gap between business strategy and technical execution. With a background leading web development at scale and a foundation in the USMC, I build engineering teams that are disciplined, high-velocity, and mission-focused.
 
-## 🚀 What I Do
+Currently, I'm pivoting deep into **AI Agents & Automation**, using modern low-code/code-first stacks to solve operational inefficiencies.
 
-- **Lead Engineering Teams** - Building high-performing teams that deliver exceptional software
-- **AI & Automation** - Exploring how artificial intelligence can transform workflows and solve real-world challenges  
-- **Technology Strategy** - Architecting scalable solutions and driving technical excellence
-- **Mentorship** - Growing the next generation of engineering talent
+### 🚀 What I'm Working On
+* **AI & Automation:** Building autonomous agents using **Python**, **n8n**, and **Make** to automate complex workflows.
+* **Mobile Development:** Creator of **Cage Keeper** (iOS), an app for youth lacrosse goalie tracking.
+* **Leadership:** Mentoring engineering managers and streamlining PMO operations.
 
-## 🛠️ Technologies & Interests
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Swift, JavaScript
+* **Automation:** n8n, Make.com, OpenAI API, Anthropic API
+* **Leadership:** Agile/Scrum, Strategic Operations, Team Scaling
+* **Interests:** Home Roasting Coffee (formerly ran an online coffee co.), Hiking, Fly Fishing, Strength Training
 
-- Artificial Intelligence & Machine Learning
-- Cloud Architecture & DevOps
-- Team Leadership & Engineering Management
-- Process Automation & Optimization
-- Modern Software Development Practices
-
-## 📊 GitHub Stats
-
-![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithdoyle9&show_icons=true&theme=default)
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing technology, leadership, or collaborating on interesting projects. Feel free to reach out!
-
-- 🌐 **Website**: [keithdoyle.me](https://keithdoyle.me)
-- 🐦 **Twitter/X**: [@thekeithdoyle](https://x.com/thekeithdoyle)
-- 💼 **LinkedIn**: [keith-doyle](https://www.linkedin.com/in/keith-doyle/)
-
----
-
-*"Great teams build great technology. Great technology empowers great teams."*
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/keith-doyle)
+* **Location:** Schwenksville, PA
