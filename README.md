@@ -7,9 +7,9 @@ I reject the idea that leadership means losing touch with the tools. Whether orc
 ---
 
 ### 🛠️ The Workbench
-**Core Stack:** `Python` `AWS` `Terraform` `Postgres`
-**Automation:** `n8n` `OpenAI API` `Anthropic API`
-**Leadership:** `Strategic Operations` `Team Scaling` `Technical Roadmaps`
+* **Core Stack:** `Python` `AWS` `Terraform` `Postgres`
+* **Automation:** `n8n` `OpenAI API` `Anthropic API`
+* **Leadership:** `Strategic Operations` `Team Scaling` `Technical Roadmaps`
 
 ---
 
