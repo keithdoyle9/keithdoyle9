@@ -1,22 +1,31 @@
-# Hi, I'm Keith Doyle 👋
+### "The best officers eat last. The best architects still code."
 
-**Engineering Director | Marine Corps Veteran | Builder**
+I am an **Engineering Director** and **Systems Architect** operating at the intersection of business strategy and technical execution.
 
-I bridge the gap between business strategy and technical execution. With a background leading web development at scale and a foundation in the USMC, I build engineering teams that are disciplined, high-velocity, and mission-focused.
+I reject the idea that leadership means losing touch with the tools. Whether orchestrating an ERP rollout or writing Python automation to kill drudgery, I lead from the front.
 
-Currently, I'm pivoting deep into **AI Agents & Automation**, using modern low-code/code-first stacks to solve operational inefficiencies.
+---
 
-### 🚀 What I'm Working On
-* **AI & Automation:** Building autonomous agents using **Python**, **n8n**, and **Make** to automate complex workflows.
-* **Mobile Development:** Creator of **[Cage Keeper](https://cagekeeper.com)** (iOS), an app for youth lacrosse goalie tracking.
-* **Leadership:** Mentoring engineering managers and streamlining PMO operations.
+### 🛠️ The Workbench
+**Core Stack:** `Python` `AWS` `Terraform` `Postgres`
+**Automation:** `n8n` `OpenAI API` `Anthropic API`
+**Leadership:** `Strategic Operations` `Team Scaling` `Technical Roadmaps`
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, Swift, JavaScript
-* **Automation:** n8n, Make.com, OpenAI API, Anthropic API
-* **Leadership:** Agile/Scrum, Strategic Operations, Team Scaling
-* **Interests:** Home Roasting Coffee (formerly ran an online coffee co.), Hiking, Fly Fishing, Strength Training
+---
 
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/keith-doyle)
-* **Location:** Schwenksville, PA
+### 📡 Active Protocols (What I'm Building)
+* **Autonomous Agents:** Building self-healing workflows using Python and LLMs to automate operational inefficiencies.
+* **Systems Architecture:** Designing event-driven pipelines that reduce latency and decouple monolithic dependencies.
+* **The Craft:** Deepening knowledge in Event-Driven Architectures and Self-Hosted Automation.
+
+---
+
+### 🌲 The Offline
+When the terminal is closed, I am usually found:
+* **In the stream:** Fly fishing for trout in PA.
+* **In the gym:** Training for strength and resilience.
+* **At the roaster:** Sourcing and roasting single-origin coffee.
+
+---
+
+[**🌐 www.keithdoyle.me**](https://www.keithdoyle.me)
