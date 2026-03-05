@@ -1,31 +1,32 @@
-### "The best officers eat last. The best architects still code."
+# Keith Doyle
 
-I am an **Engineering Director** and **Systems Architect** operating at the intersection of business strategy and technical execution.
+> Making Engineering Organizations Dramatically More Effective.
 
-I reject the idea that leadership means losing touch with the tools. Whether orchestrating an ERP rollout or writing Python automation to kill drudgery, I lead from the front.
+I build the operational systems, AI-enabled workflows, and outcome-focused strategies that connect OKRs to product roadmaps and let engineering leaders focus on what moves the needle.
 
----
+`73% bug reduction` `3x deploy frequency` `30% faster vendor onboarding`
 
-### 🛠️ The Workbench
-* **Core Stack:** `Python` `AWS` `Terraform` `Postgres`
-* **Automation:** `n8n` `OpenAI API` `Anthropic API`
-* **Leadership:** `Strategic Operations` `Team Scaling` `Technical Roadmaps`
+## The Approach
 
----
+Most engineering organizations do not have a talent problem. They have an alignment problem.
 
-### 📡 Active Protocols (What I'm Building)
-* **Autonomous Agents:** Building self-healing workflows using Python and LLMs to automate operational inefficiencies.
-* **Systems Architecture:** Designing event-driven pipelines that reduce latency and decouple monolithic dependencies.
-* **The Craft:** Deepening knowledge in Event-Driven Architectures and Self-Hosted Automation.
+I design the operating rhythms, decision frameworks, and feedback loops that connect short-term execution to mid-term OKRs and long-term strategy. The goal is simple: give teams clarity, remove friction, and measure what matters.
 
----
+## The Craft
 
-### 🌲 The Offline
-When the terminal is closed, I am usually found:
-* **In the stream:** Fly fishing for trout in PA.
-* **In the gym:** Training for strength and resilience.
-* **At the roaster:** Sourcing and roasting single-origin coffee.
+I stay technical because it makes me better at operational design. My work spans modernization in regulated industries, AI-enabled workflow design, cloud-native architecture, and shipping products people rely on.
 
----
+Current tools: `Python` `AWS` `Terraform` `n8n` `Claude Code` `MCP` `Flutter` `Postgres`
 
-[**🌐 www.keithdoyle.me**](https://www.keithdoyle.me)
+## Now
+
+- Deep diving into `n8n` and system automation
+- Building `Cage Keeper`, a cross-platform app for lacrosse goalies with real-time performance analytics
+- Studying GIS with `ArcGIS` and completing an MBA at Saint Joseph's University
+- Reading _Staff Engineer_ by Will Larson
+
+## Background
+
+I started in the United States Marine Corps as an Ammunition Technician. That experience still shapes how I work: clarity under pressure, trust through execution, and a bias toward action.
+
+[keithdoyle.me](https://www.keithdoyle.me)
