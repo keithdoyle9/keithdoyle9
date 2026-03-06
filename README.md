@@ -4,8 +4,6 @@
 
 I build the operational systems, AI-enabled workflows, and outcome-focused strategies that connect OKRs to product roadmaps and let engineering leaders focus on what moves the needle.
 
-`73% bug reduction` `3x deploy frequency` `30% faster vendor onboarding`
-
 ## The Approach
 
 Most engineering organizations do not have a talent problem. They have an alignment problem.
